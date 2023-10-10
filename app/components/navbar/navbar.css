@@ -1,0 +1,11 @@
+/* CSS di luar komponen */
+
+.logo {
+    margin-right: auto;
+    margin-left: 20px;
+}
+
+.client-link {
+    margin-left: auto;
+    margin-right: 20px;
+}
